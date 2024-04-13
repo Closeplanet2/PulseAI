@@ -1,0 +1,4 @@
+name: PulseAI
+version: '${project.version}'
+main: com.pandapulsestudios.pulseai.PulseAI
+api-version: '1.20'
